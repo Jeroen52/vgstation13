@@ -247,8 +247,8 @@ var/global/list/available_paintings = list(
 			name = "\improper Anatomy Poster"
 			desc = "A NT approved anatomy poster! Remember, eat a burger every 20-30 minutes. For your health."
 		if("Mime")
-			name = "\improper Pretencious Mime Painting"
-			desc = "There are no words to discribe this painting."
+			name = "\improper Pretentious Mime Painting"
+			desc = "There are no words to describe this painting."
 		if("wizard")
 			name = "\improper Nausiating Glow in the Dark Velvet Wizard Poster"
 			desc = "Oh god he's looking right at me, what do I do what do I do!?"
