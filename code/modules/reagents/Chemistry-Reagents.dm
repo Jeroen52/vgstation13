@@ -357,7 +357,7 @@
 				if(D.type == self.data)
 					D.cure()
 		if(prob(1))
-			M.adjustBrainLoss(100)
+			M.contract_disease(new /datum/disease/robotic_transformation/mommi)
 
 		M.resistances += self.data
 
